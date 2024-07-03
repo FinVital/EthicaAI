@@ -1,0 +1,15 @@
+ethicaai/
+│
+├── app.py
+├── pages/
+│   ├── dashboard.py
+│   ├── ethical_analysis.py
+│   ├── ethical_dilemma_input.py
+│   ├── recommendations.py
+│   ├── scenario_simulation.py
+│   └── decision_support.py
+├── utils/
+│   ├── auth.py
+│   ├── ml.py
+│   └── supabase_client.py
+└── requirements.txt
